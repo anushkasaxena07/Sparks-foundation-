@@ -6,3 +6,6 @@
 ◇ On any page / email, only basic information is needed.
 ◇ Create your own temporary / sandbox/testing accounts with 3rd party for integrations.
 ◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
+
+youtube link- https://youtu.be/1Yjhr_RT_KU
+link of proj - https://silly-mermaid-d4987c.netlify.app/
